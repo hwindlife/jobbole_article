@@ -1,0 +1,3 @@
+
+def ptname():
+    print("hello")
